@@ -1,0 +1,109 @@
+header {
+   background-color: burlywood;
+   padding: 10px;
+   margin: 40px;
+   border: 3px;
+   bottom: 10px;
+   text-align: center;
+   max-height: 400px;
+   box-shadow: 10px 10px 5px white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border-radius: 5px;
+   border-style: dashed;
+   border-color: black;
+
+
+}
+
+body {
+   background-color: aqua;
+   margin: 400px;
+   padding: 50px;
+   max-width: 500px;
+   height: 400px;
+   width: 400px;
+
+
+}
+
+.container {
+   background-color: yellowgreen;
+   margin: px;
+   padding: 40px;
+   border: 3px;
+   text-align: center;
+   box-shadow: 5px 5px 5px;
+   border-radius: 10px;
+   border-style: dashed;
+   border-color: white;
+
+
+
+}
+
+.data {
+   color: blue;
+   background-color: yellow;
+   border: 100px;
+   border-radius: 3px;
+   font-size: smaller;
+}
+
+.nome {
+   color: blue;
+   background-color: yellow;
+   border-radius: 3px;
+   font-size: smaller;
+}
+
+.email {
+   background-color: yellow;
+   color: blue;
+   border-radius: 3px;
+   font-size: smaller;
+}
+
+textarea {
+   padding: 10px;
+   border: 3px;
+   margin: 10px;
+   border-style: groove;
+   border-color: black;
+   background-color: blanchedalmond;
+
+}
+
+.enviar {
+   text-align: center;
+   background-color: blanchedalmond;
+   border-style: groove;
+   border-color: black;
+
+
+}
+
+.nomes {
+   background-color: blanchedalmond;
+   border-style: groove;
+   border-color: black;
+
+
+}
+
+.emails {
+   background-color: blanchedalmond;
+   border-style: groove;
+   border-color: black;
+}
+
+.datas {
+   background-color: blanchedalmond;
+   border-style: groove;
+   border-color: black;
+}
+
+::placeholder {
+   font-style: italic;
+   font-size: smaller;
+   font-family: serif;
+}
